@@ -1,0 +1,7 @@
+## ABSTRACT
+
+The El Niño-Southern Oscillation (ENSO) is a critical driver of climate variability, with profound impacts on weather patterns across the globe, particularly in the North Pacific Ocean. This study investigates the influence of ENSO phases—El Niño, La Niña, and Neutral on the formation, frequency, intensity, and tracks of tropical depressions (TD) in the North Pacific Ocean. Utilizing historical sea surface temperature (SST) data and tropical depression records, the study employs statistical analysis and geospatial techniques to explore correlations between ENSO phases and tropical depression activity.
+
+The analysis reveals significant variations in the frequency and intensity of tropical depressions across different ENSO phases, with El Niño years showing a higher frequency of intense tropical depressions in the Central and Eastern Pacific, while La Niña years are associated with a westward shift in tropical depression activity towards the Western Pacific. The study also examines the changes in SST anomalies during different ENSO phases and their relationship with tropical depression formation.
+
+These findings provide a deeper understanding of the complex interactions between ENSO and tropical depression dynamics in the North Pacific, offering valuable insights for improving the prediction and management of tropical depressions in the context of ENSO-driven climate variability. The results have significant implications for forecasting, disaster preparedness, and climate adaptation strategies in regions affected by tropical depressions.
